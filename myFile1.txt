@@ -1,1 +1,2 @@
-1)Adding new file
+1)Added file from github.com
+2) now i'm editing this  file from my laptop!

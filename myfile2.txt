@@ -1,1 +1,2 @@
-my 2 file in new repisotory
+my 2 file
+the same updates as in first file .
